@@ -72,4 +72,3 @@ exports.deleteBeer = function(req, res) {
     res.json({ message: 'Beer removed from the locker!' });
   });
 };
-
