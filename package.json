@@ -1,9 +1,13 @@
 {
   "name": "beerlocker",
   "main": "server.js",
+  "description": "Beerlocker tutorial project",
   "dependencies": {
-    "express": "^4.1.1",
-    "mongoose": "^3.8.8",
-    "body-parser": "^1.0.2"
+    "express": "~4.10.6",
+    "mongoose": "~3.8.20",
+    "body-parser": "~1.10.0",
+    "bcrypt-nodejs": "0.0.3",
+    "passport": "~0.2.1",
+    "passport-http": "~0.2.2"
   }
 }
