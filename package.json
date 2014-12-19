@@ -8,6 +8,10 @@
     "body-parser": "~1.10.0",
     "bcrypt-nodejs": "0.0.3",
     "passport": "~0.2.1",
-    "passport-http": "~0.2.2"
+    "passport-http": "~0.2.2",
+    "passport-http-bearer": "~1.0.1",
+    "ejs": "~1.0.0",
+    "express-session": "~1.9.3",
+    "oauth2orize": "~1.0.1"
   }
 }
